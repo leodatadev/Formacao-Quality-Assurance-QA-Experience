@@ -154,3 +154,13 @@ Cria um novo post no banco de dados. Todos os campos são obrigatórios
     }
 
 ---
+
+## Meu Certificado de conclusão
+
+### Qualidade de Software e Testes em Node.js com TypeScript
+![Captura de tela 2024-05-06 120015](https://github.com/leodatadev/Formacao-Quality-Assurance-QA-Experience/assets/141060396/e34ad913-a002-484e-ba41-37a50379ecbd)
+
+### TDD: Entendendo e Praticando em um Backend com Node e Typescript
+![Captura de tela 2024-05-06 120231](https://github.com/leodatadev/Formacao-Quality-Assurance-QA-Experience/assets/141060396/0b9caf91-3460-4044-8607-937ac6870415)
+
+
